@@ -1,6 +1,6 @@
 {
   "name": "repetitive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "repetitive.js is a JavaScript library created to perform repetitive tasks. AJAX calls, manipulating DOM classes etc. - all the things you've probably done countless times before - now in a single library. Or not! repetitive.js is modularized - every function can be obtained as a standalone UMD module package.",
   "main": "dist/repetitive.min.js",
   "scripts": {
@@ -19,6 +19,7 @@
     "type": "git",
     "url": "https://github.com/oL-web/repetitive.js"
   },
+  "homepage": "https://ol-web.github.io/repetitivejs/index.html",
   "author": "ol-web",
   "license": "MIT",
   "devDependencies": {

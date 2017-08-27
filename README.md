@@ -19,11 +19,6 @@ Use in a browser:
 <script src="repetitive.min.js"></script>
 ```
 
-Or Node.js:
-```javascript
-const someName = require("repetitive");
-```
-
 ## Documentation
 
 Available here: https://ol-web.github.io/repetitivejs

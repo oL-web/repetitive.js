@@ -1,5 +1,5 @@
-import * as ajax from "repetitive.ajax";
-import * as classes from "repetitive.classes";
+import ajax from "repetitive.ajax";
+import classes from "repetitive.classes";
 
 function rptv(selector){
   
@@ -7,7 +7,7 @@ function rptv(selector){
     
 };
 
-rptv.ajax = ajax.default;
-rptv.classes = classes.default;
+rptv.ajax = ajax;
+rptv.classes = classes;
 
 export default rptv;
